@@ -1,0 +1,6 @@
+models/
+results/DAE*
+results/DAE*
+results/curr*
+OAR.*
+*.pyc
