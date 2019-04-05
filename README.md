@@ -20,6 +20,8 @@ Ensure there exist a "data" folder inside the project folder. This folder should
 - train.src: the input sentences for training
 - train.trg: the gold summaries for these sentences
 
+Gigaword data for sentence summarization task can be found at https://github.com/harvardnlp/sent-summary
+
 When you run the script for the first time, two additional json files are created.
 They contain the words vocabulary, and you need to delete them manually if you change the training set.
 
